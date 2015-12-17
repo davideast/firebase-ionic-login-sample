@@ -1,0 +1,13 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+node_modules/
+platforms/
+plugins/
+.tmp
+.sass-cache
+**/bower_components or sometimes it is lib/**
+*.swp
+*.swo
+*.log
+*.DS_Store
